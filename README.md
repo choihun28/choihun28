@@ -1,6 +1,7 @@
 ## Hi there 👋
+choi hun!!
 🔭 I’m currently attending Gachon University, and 20 years old.
-- 🌱 I’m currently learning on my major,Aritificial Inteligence. 
+🌱 I’m currently learning on my major,Aritificial Inteligence. 
 <!--
 **choihun28/choihun28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
